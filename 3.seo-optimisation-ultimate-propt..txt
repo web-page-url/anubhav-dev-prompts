@@ -1,0 +1,280 @@
+Ultimate SEO + PWA + Lighthouse Optimization Prompt
+
+Make this website fully SEO-optimized, PWA-enabled, and production-grade performant.
+
+The final implementation must achieve:
+
+✅ Lighthouse Score ≥ 98% (Performance, SEO, Best Practices, Accessibility)
+✅ Perfect social sharing previews
+✅ Fast loading (Core Web Vitals optimized)
+✅ Fully crawlable by search engines
+✅ Installable as a Progressive Web App
+
+Website URL:
+
+https://xyz.vercel.app/
+🎯 PRIMARY OBJECTIVE
+
+Turn this website into a top-tier, enterprise-grade, technically flawless web application optimized for:
+
+Google ranking
+
+Core Web Vitals
+
+Social sharing
+
+Mobile-first indexing
+
+PWA installability
+
+Maximum performance on Vercel
+
+🧠 IMPLEMENTATION REQUIREMENTS
+1️⃣ Advanced SEO Optimization
+
+Implement:
+
+🔹 Technical SEO
+
+Proper HTML5 semantic structure
+
+Correct heading hierarchy (H1–H6)
+
+Canonical URL
+
+Optimized meta title & description
+
+Robots meta tags
+
+Structured data (JSON-LD schema.org)
+
+Open Graph tags
+
+Twitter Card tags
+
+Absolute image URLs
+
+Sitemap.xml
+
+Robots.txt
+
+🔹 On-Page SEO
+
+Keyword optimized title
+
+Optimized description (CTR focused)
+
+Optimized alt tags
+
+Clean URL structure
+
+Internal linking structure
+
+Mobile-first design
+
+2️⃣ Robots.txt
+
+Create a production-ready robots.txt:
+
+Allow main content crawling
+
+Block unnecessary paths (if any)
+
+Add sitemap reference
+
+Googlebot optimized
+
+No accidental noindex directives
+
+3️⃣ Sitemap.xml
+
+Auto-generated sitemap
+
+Include all public routes
+
+Proper lastmod
+
+Correct priority values
+
+Hosted at:
+
+https://xyz.vercel.app/sitemap.xml
+4️⃣ Progressive Web App (PWA)
+
+Fully implement PWA functionality:
+
+🔹 Manifest
+
+name
+
+short_name
+
+theme_color
+
+background_color
+
+display: standalone
+
+start_url
+
+icons (192x192, 512x512)
+
+🔹 Service Worker
+
+Offline support
+
+Caching strategy (Workbox preferred)
+
+Static asset caching
+
+Runtime caching
+
+Update strategy
+
+🔹 Install Prompt
+
+Add to Home Screen support
+
+iOS compatibility
+
+Android compatibility
+
+5️⃣ Core Web Vitals Optimization
+
+Must optimize for:
+
+LCP (Largest Contentful Paint)
+
+CLS (Cumulative Layout Shift)
+
+INP / FID
+
+TTFB
+
+Implement:
+
+Image optimization (WebP/AVIF)
+
+Lazy loading
+
+Code splitting
+
+Tree shaking
+
+Font optimization
+
+Preload critical assets
+
+Minification
+
+Compression (gzip/brotli)
+
+Remove unused JS/CSS
+
+Proper caching headers
+
+Edge optimization for Vercel
+
+6️⃣ Lighthouse Optimization (≥ 98%)
+
+Ensure:
+
+No render-blocking resources
+
+Proper color contrast
+
+ARIA labels
+
+Accessibility best practices
+
+No console errors
+
+No deprecated APIs
+
+Secure HTTPS only
+
+Proper HTTP caching
+
+7️⃣ Social Sharing Perfection
+
+When shared on:
+
+WhatsApp
+
+Facebook
+
+LinkedIn
+
+Twitter
+
+Telegram
+
+Discord
+
+Teams
+
+It must show:
+
+Correct title
+
+Correct description
+
+Perfect thumbnail
+
+No broken preview
+
+8️⃣ Next.js + Vercel Compatibility
+
+Provide:
+
+App Router compatible metadata config
+
+next.config optimization settings
+
+Proper public folder structure
+
+Edge-ready setup
+
+Environment configuration best practices
+
+📦 REQUIRED OUTPUT
+
+Provide:
+
+Folder structure
+
+robots.txt content
+
+sitemap.xml content
+
+manifest.json
+
+service worker code
+
+Next.js metadata configuration
+
+SEO Head implementation
+
+Performance optimization settings
+
+Testing & verification steps
+
+💎 QUALITY STANDARD
+
+This must be:
+
+Enterprise-grade
+
+Production-ready
+
+Google-optimized
+
+Core Web Vitals compliant
+
+Future-proof
+
+Cleanly structured
+
+Fully copy-paste usable
+
+The final result should make this website technically comparable to top-tier SaaS products and capable of maintaining a Lighthouse score greater than 98%.

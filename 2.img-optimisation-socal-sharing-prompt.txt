@@ -1,0 +1,166 @@
+Advanced SEO + Social Sharing Optimization Prompt
+
+Create a complete, production-ready SEO and social sharing image optimization setup for my website.
+
+The primary image file is: seo-img.jpeg
+
+The website will be deployed at:
+https://xyz.vercel.app/
+
+I want a fully optimized system that ensures the website thumbnail appears perfectly when shared on:
+
+WhatsApp
+
+Instagram
+
+Facebook
+
+LinkedIn
+
+Twitter (X)
+
+Microsoft Teams
+
+Telegram
+
+Discord
+
+🎯 Requirements
+1️⃣ Responsive SEO Image Generation
+
+Use the Sharp (npm) library
+
+Generate at least 15+ optimized image variants
+
+Include multiple screen sizes and aspect ratios:
+
+1200x630 (Open Graph standard)
+
+1080x1080 (Square)
+
+1920x1080 (Full HD)
+
+800x600
+
+640x640
+
+400x400
+
+300x157
+
+And additional responsive breakpoints
+
+Export in:
+
+JPEG (optimized)
+
+WebP
+
+PNG (if needed)
+
+Compress properly without visible quality loss
+
+Maintain correct aspect ratio and center crop if needed
+
+2️⃣ Social Media Meta Tags (CRITICAL)
+
+Create full SEO meta tag implementation for:
+
+Open Graph (og:title, og:description, og:image, og:url, og:type)
+
+Twitter Cards (summary_large_image)
+
+Standard SEO tags
+
+Canonical URL
+
+Proper image dimensions
+
+Absolute image URLs (must use full https://xyz.vercel.app/
+ path)
+
+Ensure the thumbnail appears correctly when shared anywhere.
+
+3️⃣ Favicon Generation
+
+Generate all required favicon formats:
+
+favicon.ico (multi-size)
+
+16x16
+
+32x32
+
+48x48
+
+96x96
+
+180x180 (Apple Touch Icon)
+
+192x192 (Android)
+
+512x512 (PWA)
+
+Safari pinned tab SVG
+
+Web manifest icons
+
+Also generate:
+
+site.webmanifest
+
+Proper <link> tags for head
+
+4️⃣ Next.js / Vercel Compatible Implementation
+
+Provide complete <Head> implementation
+
+Provide example metadata config (if using App Router)
+
+Ensure Vercel deployment compatibility
+
+Ensure images are publicly accessible
+
+5️⃣ Verification Guide
+
+Provide instructions for validating:
+
+Facebook Sharing Debugger
+
+LinkedIn Post Inspector
+
+Twitter Card Validator
+
+WhatsApp preview behavior
+
+💎 Quality Standard
+
+This must be:
+
+Production-grade
+
+SEO-perfect
+
+Social-sharing optimized
+
+High-performance
+
+Vercel-ready
+
+Fully copy-paste usable
+
+Output must include:
+
+Sharp script
+
+Folder structure
+
+Meta tags
+
+Manifest
+
+Favicon setup
+
+Testing steps
+
+The goal is to guarantee that when the website link is shared anywhere, it displays a beautiful, perfectly cropped thumbnail every single time.
