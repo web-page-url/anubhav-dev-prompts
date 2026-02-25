@@ -729,6 +729,82 @@ Make it feel elite and addictive
 Keep it professional but exciting
 
 The final output must feel like a top 0.1% GitHub README that makes users emotionally attached to the product.`
+    },
+    'prompt-5': {
+        title: 'Professional Git Commit',
+        desc: 'Clean, point-wise, industry-standard commit messages.',
+        content: `Professional GitHub Commit Message Generator Prompt
+
+Act as a senior software engineer who writes clean, professional, and industry-standard Git commit messages.
+
+Generate point-wise, well-structured, and meaningful GitHub commit messages based on the changes I provide.
+
+Follow modern best practices used in top tech companies.
+
+🎯 Requirements
+1️⃣ Follow Conventional Commits Format
+
+Use proper prefixes such as:
+
+feat: → New feature
+
+fix: → Bug fix
+
+refactor: → Code restructuring without behavior change
+
+perf: → Performance improvement
+
+style: → Formatting/UI changes
+
+docs: → Documentation updates
+
+test: → Testing updates
+
+chore: → Maintenance tasks
+
+build: → Build system changes
+
+ci: → CI/CD updates
+
+2️⃣ Structure
+
+Each commit message must include:
+
+Clear title (concise, ≤ 72 characters)
+
+Bullet-point description of changes
+
+Technical clarity
+
+Professional tone
+
+No unnecessary fluff
+
+Specific details (what & why)
+
+3️⃣ Output Format Example
+feat(auth): implement JWT-based authentication system
+
+- Added login and signup API endpoints
+- Integrated bcrypt for password hashing
+- Implemented JWT token generation and validation
+- Added middleware for protected routes
+- Updated environment variables configuration
+4️⃣ Quality Standard
+
+Professional
+
+Clean
+
+Precise
+
+Production-ready
+
+Easy to understand in code history
+
+Useful for large team collaboration
+
+After this prompt, I will provide the list of changes, and you must generate polished, professional, point-wise commit messages.`
     }
 };
 
